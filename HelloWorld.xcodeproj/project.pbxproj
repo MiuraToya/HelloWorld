@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B20BD82425A2EFD000F075A7 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B20BD82325A2EFD000F075A7 /* Storyboard.storyboard */; };
 		B256335325138173003FD668 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B256335225138173003FD668 /* AppDelegate.swift */; };
 		B256335525138173003FD668 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B256335425138173003FD668 /* SceneDelegate.swift */; };
 		B256335725138173003FD668 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B256335625138173003FD668 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B20BD82325A2EFD000F075A7 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		B256334F25138173003FD668 /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B256335225138173003FD668 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B256335425138173003FD668 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				B256335425138173003FD668 /* SceneDelegate.swift */,
 				B256335625138173003FD668 /* ViewController.swift */,
 				B256335825138173003FD668 /* Main.storyboard */,
+				B20BD82325A2EFD000F075A7 /* Storyboard.storyboard */,
 				B256335B25138178003FD668 /* Assets.xcassets */,
 				B256335D25138178003FD668 /* LaunchScreen.storyboard */,
 				B256336025138178003FD668 /* Info.plist */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B256335F25138178003FD668 /* LaunchScreen.storyboard in Resources */,
+				B20BD82425A2EFD000F075A7 /* Storyboard.storyboard in Resources */,
 				B256335C25138178003FD668 /* Assets.xcassets in Resources */,
 				B256335A25138173003FD668 /* Main.storyboard in Resources */,
 			);
